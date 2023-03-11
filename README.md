@@ -7,7 +7,7 @@ Accordingly, the behaviors of the customers will be defined and groups will be f
 
 ## Variables:
 
-#### Total Features : 12 - Total Row : 19.945
+#### Total Features : 11 - Total Row : 19.945
 
 #### CSV File Size : 2.7 MB
 
